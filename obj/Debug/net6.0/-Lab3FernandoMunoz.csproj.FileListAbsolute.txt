@@ -1,0 +1,15 @@
+C:\Users\munoz\code\lab\-Lab3FernandoMunoz\obj\Debug\net6.0\-Lab3FernandoMunoz.csproj.AssemblyReference.cache
+C:\Users\munoz\code\lab\-Lab3FernandoMunoz\obj\Debug\net6.0\-Lab3FernandoMunoz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munoz\code\lab\-Lab3FernandoMunoz\obj\Debug\net6.0\-Lab3FernandoMunoz.AssemblyInfoInputs.cache
+C:\Users\munoz\code\lab\-Lab3FernandoMunoz\obj\Debug\net6.0\-Lab3FernandoMunoz.AssemblyInfo.cs
+C:\Users\munoz\code\lab\-Lab3FernandoMunoz\obj\Debug\net6.0\-Lab3FernandoMunoz.csproj.CoreCompileInputs.cache
+C:\Users\munoz\code\lab\-Lab3FernandoMunoz\bin\Debug\net6.0\-Lab3FernandoMunoz.exe
+C:\Users\munoz\code\lab\-Lab3FernandoMunoz\bin\Debug\net6.0\-Lab3FernandoMunoz.deps.json
+C:\Users\munoz\code\lab\-Lab3FernandoMunoz\bin\Debug\net6.0\-Lab3FernandoMunoz.runtimeconfig.json
+C:\Users\munoz\code\lab\-Lab3FernandoMunoz\bin\Debug\net6.0\-Lab3FernandoMunoz.dll
+C:\Users\munoz\code\lab\-Lab3FernandoMunoz\bin\Debug\net6.0\-Lab3FernandoMunoz.pdb
+C:\Users\munoz\code\lab\-Lab3FernandoMunoz\obj\Debug\net6.0\-Lab3FernandoMunoz.dll
+C:\Users\munoz\code\lab\-Lab3FernandoMunoz\obj\Debug\net6.0\refint\-Lab3FernandoMunoz.dll
+C:\Users\munoz\code\lab\-Lab3FernandoMunoz\obj\Debug\net6.0\-Lab3FernandoMunoz.pdb
+C:\Users\munoz\code\lab\-Lab3FernandoMunoz\obj\Debug\net6.0\-Lab3FernandoMunoz.genruntimeconfig.cache
+C:\Users\munoz\code\lab\-Lab3FernandoMunoz\obj\Debug\net6.0\ref\-Lab3FernandoMunoz.dll
